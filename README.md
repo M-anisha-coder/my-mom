@@ -1,4 +1,6 @@
-<h1> HELLO EVERYONE Myself manisha</h1>
+<h1> HELLO EVERYONE</h1>
+
+<h2>Myself manisha</h2>
 <h2>I am here with a lovely and amazing projects .</h2>
 
 <Pre>Project name:Slide show for  all mother❤️
